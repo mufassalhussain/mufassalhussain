@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mufassalhussain Flutter Mobile Application Developer
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning deeply on flutter apps
 - 💞️ I’m looking to collaborate on Flutter & Dart Repos
 - 📫 How to reach me: Email: hmufassal@gmail.com Phone: +923064672596
 
